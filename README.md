@@ -1,4 +1,3 @@
-# EDA_Yeast_data_set
 # EDA, Exploratory Data Analysis / Исследовательский анализ данных
 ## Постановка задачи
 
